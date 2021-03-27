@@ -17,5 +17,6 @@
         "Pimcore\\Bundle\\PerspectiveEditorBundle\\PimcorePerspectiveEditorBundle"
       ]
     }
-  }
+  },
+  "version": "master"
 }
